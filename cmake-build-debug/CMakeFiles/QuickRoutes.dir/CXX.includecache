@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Administrator.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Clerk.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Complaint.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Delivery.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Driver.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Employee.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Manager.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Product.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Route.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/SuperAdmin.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Supervisor.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Truck.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/TruckDriver.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Van.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/VanDriver.h
+
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/main.cpp
+iostream
+-
+fstream
+-
+utility
+-
+vector
+-
+string
+-
+algorithm
+-
+cstring
+-
+Product.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Product.h
+Complaint.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Complaint.h
+Route.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Route.h
+Van.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Van.h
+Truck.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Truck.h
+Employee.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Employee.h
+Administrator.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Administrator.h
+SuperAdmin.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/SuperAdmin.h
+Manager.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Manager.h
+Clerk.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Clerk.h
+Driver.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Driver.h
+Delivery.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Delivery.h
+Supervisor.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/Supervisor.h
+TruckDriver.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/TruckDriver.h
+VanDriver.h
+C:/Users/Martin Mitev/CLionProjects/Data_Structures/QuickRoutes/VanDriver.h
+
